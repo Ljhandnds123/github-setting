@@ -1,4 +1,4 @@
-# new
+# about how to setting git on mac
 
 第一次用mac 做上传实验
 
